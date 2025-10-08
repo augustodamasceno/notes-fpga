@@ -14,6 +14,9 @@ Field Programmable Gate Array (FPGA) [[1]](https://www.ibm.com/think/topics/fiel
 
 * Matlab 2024a  
 
+* Vitis Model Composer (System Generator replacement)
+
+* Open Simulink and Use AMD Toolbox
 
 ## References
 
