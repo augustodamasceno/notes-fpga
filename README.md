@@ -22,6 +22,14 @@ Field-Programmable Gate Array (FPGA) [[1]](https://www.ibm.com/think/topics/fiel
 * AWS FPGA Development Kit [[6]](https://github.com/aws/aws-fpga) - Open-source kit providing scripts, documentation, and interfaces for custom hardware development and C/C++/OpenCL acceleration.
 * AWS CLI - Command-line interface for managing AWS resources, deploying FPGA images, and interacting with EC2 services.
 
+### 1.4 Vivado ML Free Version
+
+The AMD Vivado™ Design Suite: Standard Edition is available for free and provides access to essential FPGA design tools and features. This edition supports a limited set of devices but includes key capabilities such as Vivado IP Integrator, Dynamic Function eXchange, Vitis High-Level Synthesis, Vivado Simulator, Device Programmer, Logic Analyzer, Serial I/O Analyzer, and more.
+
+**Download Vivado ML Standard Edition for free:** [https://www.amd.com/pt/products/software/adaptive-socs-and-fpgas/vivado/vivado-buy.html](https://www.amd.com/pt/products/software/adaptive-socs-and-fpgas/vivado/vivado-buy.html)
+
+For more details and supported devices, visit the [official Vivado download page](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools.html).
+
 ## 2. Books
 
 ### 2.1 SystemVerilog
@@ -140,7 +148,9 @@ Field-Programmable Gate Array (FPGA) [[1]](https://www.ibm.com/think/topics/fiel
 
 ## 4. Tutorials  
 
-* Vitis Model Composer Tutorials [[4]](https://github.com/Xilinx/Vitis_Model_Composer/blob/HEAD/Tutorials/README.md)
+### 4.1 Vitis Model Composer Tutorials [[4]](https://github.com/Xilinx/Vitis_Model_Composer/blob/HEAD/Tutorials/README.md)
+
+### 4.2 AMD - Adaptable Learning [[8]](https://learningcatalog-amd.netexam.com/)
 
 
 ## References
@@ -158,3 +168,6 @@ Field-Programmable Gate Array (FPGA) [[1]](https://www.ibm.com/think/topics/fiel
 [6] AWS, "AWS FPGA Development Kit," GitHub. [Online]. Available: https://github.com/aws/aws-fpga. [Accessed: Dec. 23, 2025].
 
 [7] Amazon Web Services, "FPGA Developer AMI," AWS Marketplace. [Online]. Available: https://aws.amazon.com/marketplace/pp/prodview-f5kjsenkfkz5u. [Accessed: Dec. 23, 2025].
+
+[8] AMD, "Adaptable Learning," AMD. [Online]. Available: https://learningcatalog-amd.netexam.com/. [Accessed: Dec. 23, 2025].
+
