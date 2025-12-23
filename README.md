@@ -138,7 +138,7 @@ Field-Programmable Gate Array (FPGA) [[1]](https://www.ibm.com/think/topics/fiel
 ### 3.2 Amazon EC2 F2 FPGA Instances [[5]](https://aws.amazon.com/ec2/instance-types/f2/)
 > Cloud-based FPGA acceleration for high-performance computing workloads.
 
-### Tutorials  
+## 4. Tutorials  
 
 * Vitis Model Composer Tutorials [[4]](https://github.com/Xilinx/Vitis_Model_Composer/blob/HEAD/Tutorials/README.md)
 
