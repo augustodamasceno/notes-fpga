@@ -83,6 +83,7 @@ Field-Programmable Gate Array (FPGA) [[1]](https://www.ibm.com/think/topics/fiel
 
 [1] R. Kastner, J. Matai, S. Neuendorffer, *Parallel Programming for FPGAs: The HLS Book*, 1st ed. 2022.  
     * Focus: High-Level Synthesis (HLS) techniques and parallel programming models for FPGA development, including C/C++ and OpenCL.
+> Download: https://arxiv.org/abs/1805.03648
 
 <img src="https://kastner.ucsd.edu/wp-content/uploads/2018/03/admin/hls_book_cover.jpg" alt="Parallel Programming for FPGAs: The HLS Book" height="120"/>
 
@@ -120,12 +121,12 @@ Field-Programmable Gate Array (FPGA) [[1]](https://www.ibm.com/think/topics/fiel
 [1] A. Meyer, *Principles of Functional Verification*, 1st ed. Amsterdam, Netherlands: Elsevier, 2003.  
     * Focus: Methodologies for functional verification of digital designs, including simulation, formal methods, and testbench development applicable to FPGA verification.
 
-    <img src="https://m.media-amazon.com/images/I/51mThMxyi+L._SY445_SX342_QL70_FMwebp_.jpg" alt="Principles of Functional Verification" height="120"/>
+<img src="https://m.media-amazon.com/images/I/51mThMxyi+L._SY445_SX342_QL70_FMwebp_.jpg" alt="Principles of Functional Verification" height="120"/>
 
 [2] A. B. Mehta, *SystemVerilog Assertions and Functional Coverage: Guide to Language, Methodology and Applications*, 3rd ed. Cham, Switzerland: Springer, 2016.  
     * Focus: Advanced verification techniques using SystemVerilog assertions, functional coverage, and coverage-driven verification for FPGA designs.
 
-    <img src="https://m.media-amazon.com/images/I/611tMfyBvXL._SY466_.jpg" alt="SystemVerilog Assertions and Functional Coverage: Guide to Language, Methodology and Applications" height="120"/>
+<img src="https://m.media-amazon.com/images/I/611tMfyBvXL._SY466_.jpg" alt="SystemVerilog Assertions and Functional Coverage: Guide to Language, Methodology and Applications" height="120"/>
 
 ## 3. Kits
 
